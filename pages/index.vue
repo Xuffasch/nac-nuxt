@@ -6,6 +6,10 @@
 </template>
 
 <style scoped>
+  h1 {
+    @apply p-2 m-2 text-lg 
+  }
+
   a {
     display: block;
     padding: 1em;
